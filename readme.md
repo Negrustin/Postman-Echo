@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2c7vdyge97e6p863?svg=true)](https://ci.appveyor.com/project/Negrustin/postman-echo-h54r0)
